@@ -25,7 +25,7 @@ Over time, different versions of Icarus were developed in both **Python** and **
 
 ### 🔹 Icarus v2.0
 - **Language:** MATLAB  
-- **Date:** January 10, 2024  
+- **Date:** January 10, 2025  
 - **Context:** Used in my **Mechanical Engineering Undergraduate Thesis** at the **Universidade do Estado do Amazonas (UEA)**, entitled:  
   *"Otimização Bi-Objetivo do Projeto Conceitual de Aeronaves de Baixo Número de Reynolds Utilizando Algoritmos Genéticos"*.  
 
